@@ -4,7 +4,7 @@ Hi 👋 My name is Majesty
 Data Scientist and AI enthusiast
 --------------------------------
 
-Hello there, my name is majesty and I'm the Octo-Data\_Scientist. I love data and how the data we create can help solve problems in our world and I'm committed to learn and grow in the data space and I'll love to go on this journey with you.
+Hello there, my name is Majesty, and I'm the Octo-Data-Scientist. I love data and how the data we create can help solve problems in our world. I'm committed to learning and growing in the data space, and I'd love to go on this journey with you.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [majestyaienthusiast@gmail.com](mailto:majestyaienthusiast@gmail.com)
@@ -35,8 +35,6 @@ src="https://img.shields.io/twitter/follow/yolo_majesty?logo=twitter&style=for-t
 <a href="http://www.github.com/Octo-Data-Scientist"><img src="https://github-readme-stats.vercel.app/api?username=Octo-Data-Scientist&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=f97316&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Octo-Data-Scientist's GitHub stats" /></a>
 
 <a href="http://www.github.com/Octo-Data-Scientist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Octo-Data-Scientist&stroke=f97316&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
-
-<a href="http://www.github.com/Octo-Data-Scientist"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Octo-Data-Scientist&bg_color=1c1917&color=f97316&line=3382ed&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Octo-Data-Scientist" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octo-Data-Scientist&langs_count=10&title_color=22c55e&text_color=f97316&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
